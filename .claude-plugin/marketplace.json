@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"宠物养护专家：档案→驱虫/疫苗/饮食时间表→健康 checklist（49 条规则自检，健康建议仅供参考）","name":"lhg-pet-care","source":"./"}]}
